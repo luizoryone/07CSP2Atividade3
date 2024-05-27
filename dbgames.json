@@ -1,25 +1,39 @@
 {
-    "produtos": [
-        {
-            "id": 1,
-            "produto": "Jogo 1",
-            "descricao": "Descrição jogo 1",
-            "foto": "jogo1.PNG",
-            "preço": 101.01
-        },
-        {
-            "id": 2,
-            "produto": "Jogo 2",
-            "descricao": "Descrição jogo 2",
-            "foto": "jogo2.PNG",
-            "preço": 202.02
-        },
-        {
-            "id": 1,
-            "produto": "Jogo 3",
-            "descricao": "Descrição jogo 3",
-            "foto": "jogo3.PNG",
-            "preço": 303.03
-        }
-    ]
+  "produtos": [
+    {
+      "id": 0,
+      "produto": "Mapa do Zoo BSB",
+      "descricao": "Mapa do Zoologico de Brasília",
+      "foto": "map7.jpg",
+      "preco": 1
+    },
+    {
+      "id": 0,
+      "produto": "Death Stranding - M18",
+      "descricao": "Hideo Kojima Game - PS4",
+      "foto": "cj1.jpg",
+      "preco": 101.01
+    },
+    {
+      "id": 0,
+      "produto": "TEKKEN 8 - BANDI NANCO - Teen16",
+      "descricao": "Saga dos Desáfios Marciais continua - PS5",
+      "foto": "cj2.jpg",
+      "preco": 202.22
+    },
+    {
+      "id": 0,
+      "produto": "FALLOUT 76 - Bethesda ",
+      "descricao": "O fim do Mundo chegou? Continue jogando... PS4",
+      "foto": "cj3.jpg",
+      "preco": 303.33
+    },
+    {
+      "id": 0,
+      "produto": "Lançamento em 2025...",
+      "descricao": "8k 500gb 240htz no PC",
+      "foto": "capa2.jpg",
+      "preco": 0
+    }
+  ]
 }
